@@ -1,7 +1,7 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-10-13 07:08:40 CEST
+# last updated:   2026-10-18 23:47:03 CEST
 # entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
